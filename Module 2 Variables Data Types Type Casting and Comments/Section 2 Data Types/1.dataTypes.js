@@ -1,19 +1,9 @@
 "use strict";
 
 //There are primitive types and complex 
-//Primitives
+//Primitives:
+//They are atomic data, and almost each literal belongs to any
+//particular data type, for example the code above show some
+//literals
 
 console.log("string", 1, undefined, true, false, 'and bigInt');
-
-//typeof is used to know what kind of data is:
-let year = 1990;
-console.log(typeof year);
-console.log(typeof 1991);
-
-let name = "Alice";
-console.log(typeof name);
-console.log(typeof "Bob");
-
-let typeOfYear = typeof year;
-console.log(typeOfYear);
-console.log(typeof typeOfYear);

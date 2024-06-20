@@ -22,6 +22,7 @@ let x = 9e3;
 let y = 123e-5;
 console.log(x);
 console.log(y);
+console.log(1235e-6)
 
 //In addition there are three more values -Infinity Infinity NaN
 let a1 = 1/0;

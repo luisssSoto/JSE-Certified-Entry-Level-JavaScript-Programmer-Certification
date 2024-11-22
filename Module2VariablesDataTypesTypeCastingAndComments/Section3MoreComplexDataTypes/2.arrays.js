@@ -26,8 +26,8 @@ dataTypes.forEach(element => {
 
 //even arrays
 let similarSeries = [['Naruto', 'Sasuke', 'Sakura'], ['Yuji', 'Megumi', 'Nobara']];
-let jejeWoman = [];
-jejeWoman[0] = similarSeries[0][2];
-jejeWoman[1] = similarSeries[1][2];
-console.log(jejeWoman);
+let jejeWomen = [];
+jejeWomen[0] = similarSeries[0][2];
+jejeWomen[1] = similarSeries[1][2];
+console.log(jejeWomen);
 console.log(`It is better: ${similarSeries[0]}`);
